@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "kaboom": "^2000.0.0-beta.24"
+    "kaboom": "^2000.0.0-beta.24",
+    "parcel-bundler": "^1.12.5"
   },
   "devDependencies": {},
   "scripts": {
