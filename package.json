@@ -1,0 +1,23 @@
+{
+  "name": "replity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "kaboom": "^2000.0.0-beta.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corycalaway/replity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corycalaway/replity/issues"
+  },
+  "homepage": "https://github.com/corycalaway/replity#readme"
+}
